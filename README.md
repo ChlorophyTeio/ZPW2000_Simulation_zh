@@ -105,8 +105,9 @@
 
 ```plaintext
 ├── main.py              # 主程序入口，控制仿真逻辑
-├── simulationUi.py      # 由 Qt Designer 转换生成的 UI 文件
-├── resources/           # 存储界面图片与图标
+├── QtGui
+│   ├── simulationUi.py      # 由 Qt Designer 转换生成的 UI 文件
+│   └── simulationUi.ui     # Qt Designer 设计的界面文件
 ├── README.md            # 项目说明文档
 ├── requirements.txt     # 依赖库清单
 └── LICENSE              # 开源协议
