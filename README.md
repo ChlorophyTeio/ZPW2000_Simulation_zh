@@ -155,7 +155,7 @@
 如有任何问题或建议，请联系：
 - 作者：**ChlorophyTeio**
 - 邮箱：`chlorophyimo@gmail.com`
-- 开源地址：[GitHub 仓库链接]([https://github.com/your-repo](https://github.com/ChlorophyTeio/ZPW2000_Simulation_zh))
+- 开源地址：[here](https://github.com/ChlorophyTeio/ZPW2000_Simulation_zh)
 
 --- 
 
